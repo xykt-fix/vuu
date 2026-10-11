@@ -1,2 +1,5 @@
 # tv-room-github.mn
-TVRoom portal
+
+Welcome to this web!
+
+To avoid subscription, You must get a license 

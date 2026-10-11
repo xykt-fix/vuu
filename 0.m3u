@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://example.com/de?34=ew
+#EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-logo="", MNB 

@@ -1,8 +1,12 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://voo.mn/drm.php/widevine?token=78cc7f07673b6ce018b9a105e7d831173148788c
-#EXTINF:-1 tvg-id="100" tvg-chno="100" tvg-logo="https://prd-static-mobinet.spectar.tv/rev-1790875394/image_transform.php/transform/1/instance_id/1/video_id/6057", Voo Promo
+#EXTINF:-1 tvg-id="99" tvg-chno="99" tvg-logo="https://prd-static-mobinet.spectar.tv/rev-1790875394/image_transform.php/transform/1/instance_id/1/video_id/6057", Voo Promo
 https://mobinet-live.spectar.tv/MBN_1_024/sample_aes_v_r360p.m3u8?id=MBN_1_024&video_id=6057&token=78cc7f07673b6ce018b9a105e7d831173148788c&authority_instance_id=spectar-prd-mobinet&profile_id=12945226&application_installation_id=19206714&uuid=6acb3dd9c59405-14843328&subscriber_id=10748572&application_id=calcifer&detected_delivery_method=hls&playlist_template=nginx&ps=48921d8fe6ea01c22aa931fd5067e11c693255961598e66067933dcc8bf0bab33c994e25c025faa2832a2f1858c5e43e77ffebed9b2345ca634c384092bd8971&vh=a1f01de0ba1239212fb28c13122d82a0739ec6f3472c219b29bb5c9355ab54ada7c329791e199c292986a8be28067724b1956c28bdf0eead00de1f4ec3154813
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://voo.mn/drm.php/widevine?token=78cc7f07673b6ce018b9a105e7d831173148788c
+#EXTINF:-1 tvg-id="100" tvg-chno="100" tvg-logo="https://prd-static-mobinet.spectar.tv/rev-1790875394/image_transform.php/transform/1/instance_id/1/video_id/481829", Vmax
+http://example.com/comingsoon
 #EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-logo="", MYOHT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://voo.mn/drm.php/widevine?token=78cc7f07673b6ce018b9a105e7d831173148788c
